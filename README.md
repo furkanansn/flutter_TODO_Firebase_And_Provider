@@ -1,4 +1,4 @@
-# my_todo
+# Flutter Todo app with firebase and provider.
 
 A new Flutter project.
 
